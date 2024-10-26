@@ -1,4 +1,2 @@
-# C
-# C++ 
-
-- Coding in both c and c++
+# Basic idea of starting question in c, c++ and python
+## basic question for begineers
