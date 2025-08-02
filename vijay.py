@@ -1972,3 +1972,15 @@ if sum == n:
 else:
     print(f"{n} in NOt an Armstrog number")
 print()
+
+
+
+# output of this code
+def fun(x, y=[]): 
+    y.append(x)
+    return y
+
+result1 = fun(1)
+result2 = fun(2)
+
+print(result2)  # Output: [1, 2]
